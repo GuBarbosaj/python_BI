@@ -1,5 +1,5 @@
 import pandas as pd
 
-dados = [['João',10],['Maria',15],['Joana',20],['Pedro',25]]
-df = pd.DataFrame(dados,columns=['Nome','Idade'],dtype=float)
+dados = [['Attyla',10],['Ana',15],['Gustavo',20],['Mauricio',25]]
+df = pd.DataFrame(dados,columns=['Nome','Idade'])
 print (df)
